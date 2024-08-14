@@ -1,0 +1,2 @@
+long_var_name_created= 45
+print(long_var_name_created)
