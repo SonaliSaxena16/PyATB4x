@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f99a603f-8743-48c6-90d4-76f115ab4403" name="Changes" comment="All the files for the 10th Aug are added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/HW Power,Calc,Str Format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723657390767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All the files for the 10th Aug are added">
+      <option name="closed" value="true" />
+      <created>1723825150032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723825150032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
