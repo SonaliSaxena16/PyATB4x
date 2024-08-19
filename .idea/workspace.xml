@@ -4,9 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f99a603f-8743-48c6-90d4-76f115ab4403" name="Changes" comment="All the files for the 10th Aug are added">
+    <list default="true" id="f99a603f-8743-48c6-90d4-76f115ab4403" name="Changes" comment="HW 2 tasks from 13th Aug">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Var_declaration_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/ZeroVal_None()_Id().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/DataTypes&amp;DecimalSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/DiffIn_Upating&amp;AssignTheVal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/HW 17thAug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Maths_library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/escape_sequence&amp;RawString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/operators_theory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/Python_Print().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Printfunc_diiffArgs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Indentation_basics_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Changing_print()_arguments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Find_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Python_keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/DuplicateVarName_diffDataTypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/How_to_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab013.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab014.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/AssigningValue_ToVar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/String_CanBeDublorSingQuoted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/MaxValues_IntCanHold.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Power&amp;Absolute().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Taking_User_Input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/CreateCalc_ByUserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Str_Formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/List_DataType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Str_Basic().py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,38 +82,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW Power,Calc,Str Format.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HwTakeInput&amp;PrintTable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Circle_Area.executor": "Run",
+    "Python.DiffIn_Upating&AssignTheValHw17th (1).executor": "Run",
+    "Python.Find_max.executor": "Run",
+    "Python.HW Power,Calc,Str Format.executor": "Run",
+    "Python.Hw17th.executor": "Run",
+    "Python.HwTakeInput&PrintTable.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Maths_library.executor": "Run",
+    "Python.Operators.executor": "Run",
+    "Python.comparison_two_no.executor": "Run",
+    "Python.escape_sequence&RawString.executor": "Run",
+    "Python.escape_sequence.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.HwTakeInput&amp;PrintTable">
-    <configuration name="HW Power,Calc,Str Format" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_17082024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.HW 17thAug">
+    <configuration name="Circle_Area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13082024/HW Power,Calc,Str Format.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HwTakeInput&amp;PrintTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DiffIn_Upating&amp;AssignTheVal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_17082024\DiffIn_Upating&amp;AssignTheVal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW 17thAug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13082024/Lab022.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/HW 17thAug.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Maths_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13082024/Lab023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Maths_library.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +225,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13082024/Lab025.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Operators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operators_theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_17082024\operators_theory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HwTakeInput&amp;PrintTable" />
-        <item itemvalue="Python.Lab023" />
-        <item itemvalue="Python.HW Power,Calc,Str Format" />
-        <item itemvalue="Python.Lab022" />
-        <item itemvalue="Python.Lab025" />
+        <item itemvalue="Python.HW 17thAug" />
+        <item itemvalue="Python.operators_theory" />
+        <item itemvalue="Python.Maths_library" />
+        <item itemvalue="Python.Circle_Area" />
+        <item itemvalue="Python.Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -245,12 +318,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723825150032</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW 2 tasks from 13th Aug">
+      <option name="closed" value="true" />
+      <created>1723827854112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723827854112</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="All the files for the 10th Aug are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files for the 10th Aug are added" />
+    <MESSAGE value="HW 2 tasks from 13th Aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 2 tasks from 13th Aug" />
   </component>
 </project>

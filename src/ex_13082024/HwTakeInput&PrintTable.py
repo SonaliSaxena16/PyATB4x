@@ -3,8 +3,6 @@ WAP to take user input a num and print its table using String Format
 """
 table = int(input("Enter the number whose table you want to print"))
 
-
-
 print(type(table))
 print(f"{table}*1 = {table*1}")
 print(f"{table}*2 = {table*2}")

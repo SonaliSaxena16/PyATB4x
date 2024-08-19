@@ -1,1 +1,0 @@
-print("Hello, today I got a new ray of hope")
