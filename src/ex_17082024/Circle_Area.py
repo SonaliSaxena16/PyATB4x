@@ -22,4 +22,6 @@ print(f"{area:.2f}")
 print(f"{area2:.2f}")
 
 # One liner logic
-print(3.14*(float(input("Enter the radius"))**2))
+#print(3.14*(float(input("Enter the radius"))**2))
+
+print(math.pi*(float(input("Enter the radius"))**2))

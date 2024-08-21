@@ -5,44 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f99a603f-8743-48c6-90d4-76f115ab4403" name="Changes" comment="HW 2 tasks from 13th Aug">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Var_declaration_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/ZeroVal_None()_Id().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/DataTypes&amp;DecimalSystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/DiffIn_Upating&amp;AssignTheVal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/HW 17thAug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Maths_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/escape_sequence&amp;RawString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/operators_theory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/if_else_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/if_elseif_else_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/nested_if_single_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/square_cube_ofNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19082024/fizz_buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19082024/grade_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19082024/leapYear_notLeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19082024/traingle_determination.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/Python_Print().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Printfunc_diiffArgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Indentation_basics_python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Changing_print()_arguments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Find_max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Python_keywords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/DuplicateVarName_diffDataTypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/How_to_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/HwTakeInput&amp;PrintTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/AssigningValue_ToVar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/String_CanBeDublorSingQuoted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/MaxValues_IntCanHold.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Power&amp;Absolute().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Taking_User_Input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/CreateCalc_ByUserInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Str_Formatting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/List_DataType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Str_Basic().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/HW 17thAug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/operators_theory.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/num_compare_lessthan_greaterthan_equals.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +62,7 @@
     "Python.Circle_Area.executor": "Run",
     "Python.DiffIn_Upating&AssignTheValHw17th (1).executor": "Run",
     "Python.Find_max.executor": "Run",
+    "Python.HW 17thAug.executor": "Run",
     "Python.HW Power,Calc,Str Format.executor": "Run",
     "Python.Hw17th.executor": "Run",
     "Python.HwTakeInput&PrintTable.executor": "Run",
@@ -118,6 +94,14 @@
     "Python.comparison_two_no.executor": "Run",
     "Python.escape_sequence&RawString.executor": "Run",
     "Python.escape_sequence.executor": "Run",
+    "Python.fizz_buzz.executor": "Run",
+    "Python.grade_calc.executor": "Run",
+    "Python.if_else_concept.executor": "Run",
+    "Python.if_elseif_else_concept.executor": "Run",
+    "Python.leapYear_notLeapYear.executor": "Run",
+    "Python.num_compare_lessthan_greaterthan_equals.executor": "Run",
+    "Python.square_cube_ofNum (1).executor": "Run",
+    "Python.traingle_determination.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -127,95 +111,7 @@
       <recent name="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_17082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW 17thAug">
-    <configuration name="Circle_Area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4x" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DiffIn_Upating&amp;AssignTheVal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4x" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_17082024\DiffIn_Upating&amp;AssignTheVal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="HW 17thAug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4x" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/HW 17thAug.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Maths_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4x" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Maths_library.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.fizz_buzz">
     <configuration name="Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
@@ -238,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operators_theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fizz_buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,11 +143,77 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_17082024\operators_theory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/fizz_buzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grade_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/grade_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leapYear_notLeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/leapYear_notLeapYear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="traingle_determination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/traingle_determination.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HW 17thAug" />
-        <item itemvalue="Python.operators_theory" />
-        <item itemvalue="Python.Maths_library" />
-        <item itemvalue="Python.Circle_Area" />
+        <item itemvalue="Python.fizz_buzz" />
+        <item itemvalue="Python.leapYear_notLeapYear" />
         <item itemvalue="Python.Operators" />
+        <item itemvalue="Python.traingle_determination" />
+        <item itemvalue="Python.grade_calc" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723827854112</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW 2 tasks from 13th Aug">
+      <option name="closed" value="true" />
+      <created>1724078389445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724078389445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

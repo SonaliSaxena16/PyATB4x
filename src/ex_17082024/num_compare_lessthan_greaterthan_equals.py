@@ -4,12 +4,21 @@
 num1 = int(input("Enter the 1st num"))
 num2 = int(input("Enter the 2nd num"))
 
-if num1>num2:
+
+if num1 > num2:
     print("Num1 is greater")
-elif num1<num2:
+elif num1 < num2:
     print("Num1 is less than to Num2")
 
 else:
- print("Num1 is equal to Num2")
+    print("Num1 is equal to Num2")
 
 
+    # or
+
+if num1 > num2:
+    print("Num1 is greater",num1)
+if num2 > num1:
+    print("Num2 is greater",num2)
+else:
+    print("Num1 is equal to Num2")
