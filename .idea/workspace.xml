@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f99a603f-8743-48c6-90d4-76f115ab4403" name="Changes" comment="HW 2 tasks from 13th Aug">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/if_else_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/if_elseif_else_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/nested_if_single_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/square_cube_ofNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19082024/fizz_buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19082024/grade_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19082024/leapYear_notLeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19082024/traingle_determination.py" afterDir="false" />
+    <list default="true" id="f99a603f-8743-48c6-90d4-76f115ab4403" name="Changes" comment="HW 2 tasks from 20 Aug">
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/break_keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/continue_keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/forLoop_withIf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/pass_keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/while_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Circle_Area.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/HW 17thAug.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/operators_theory.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/num_compare_lessthan_greaterthan_equals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_19082024/fizz_buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19082024/fizz_buzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_19082024/leapYear_notLeapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19082024/leapYear_checker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,17 +87,24 @@
     "Python.Lab026.executor": "Run",
     "Python.Maths_library.executor": "Run",
     "Python.Operators.executor": "Run",
+    "Python.break_keyword.executor": "Run",
     "Python.comparison_two_no.executor": "Run",
+    "Python.continue_keyword.executor": "Run",
     "Python.escape_sequence&RawString.executor": "Run",
     "Python.escape_sequence.executor": "Run",
     "Python.fizz_buzz.executor": "Run",
+    "Python.for_loop.executor": "Run",
     "Python.grade_calc.executor": "Run",
     "Python.if_else_concept.executor": "Run",
     "Python.if_elseif_else_concept.executor": "Run",
+    "Python.leapYear_checker (1).executor": "Run",
     "Python.leapYear_notLeapYear.executor": "Run",
     "Python.num_compare_lessthan_greaterthan_equals.executor": "Run",
+    "Python.pass_keyword.executor": "Run",
     "Python.square_cube_ofNum (1).executor": "Run",
+    "Python.test.executor": "Run",
     "Python.traingle_determination.executor": "Run",
+    "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -111,8 +114,8 @@
       <recent name="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_17082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fizz_buzz">
-    <configuration name="Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.continue_keyword">
+    <configuration name="break_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/break_keyword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fizz_buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="continue_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/fizz_buzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/continue_keyword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grade_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="forLoop_withIf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/grade_calc.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sonali Saxena\PycharmProjects\PyATB4x\src\ex_22082024\forLoop_withIf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leapYear_notLeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pass_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/leapYear_notLeapYear.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/pass_keyword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="traingle_determination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19082024/traingle_determination.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/while_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fizz_buzz" />
-        <item itemvalue="Python.leapYear_notLeapYear" />
-        <item itemvalue="Python.Operators" />
-        <item itemvalue="Python.traingle_determination" />
-        <item itemvalue="Python.grade_calc" />
+        <item itemvalue="Python.continue_keyword" />
+        <item itemvalue="Python.pass_keyword" />
+        <item itemvalue="Python.forLoop_withIf" />
+        <item itemvalue="Python.break_keyword" />
+        <item itemvalue="Python.while_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -296,13 +299,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724078389445</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW 2 tasks from 20 Aug">
+      <option name="closed" value="true" />
+      <created>1724268750144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724268750144</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="All the files for the 10th Aug are added" />
     <MESSAGE value="HW 2 tasks from 13th Aug" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW 2 tasks from 13th Aug" />
+    <MESSAGE value="HW 2 tasks from 20 Aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 2 tasks from 20 Aug" />
   </component>
 </project>
